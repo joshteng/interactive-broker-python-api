@@ -27,7 +27,7 @@ setup(
     long_description_content_type="text/markdown",
 
     # here is the URL you can find the code.
-    url='https://github.com/areed1192/interactive-broker-python-api',
+    url='https://github.com/joshteng/interactive-broker-python-api',
 
     # there are some dependencies to use the library, so let's list them out.
     install_requires=[
